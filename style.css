@@ -1,0 +1,59 @@
+body {
+  background-color: #fff;
+}
+
+.container-fluid {
+  background-color: #eee;
+  margin: 40px;
+  border-radius: 5px;
+}
+
+#fgr {
+  width:auto;
+  margin-left: 30px;
+  margin-right: 30px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.rowimgDiv {
+  background-color: #fff;
+  margin: 1em 195px;
+  border-radius: 10px;
+  padding-bottom: 5px;
+}
+
+#img1 {
+  margin-top: 10px;
+}
+
+ul {
+  width: auto;
+  margin-left: 110px;
+  margin-right: 110px;
+  display: block;
+}
+li{
+  width:auto;
+}
+
+
+h5 {
+  font-style: italic;
+}
+h3{
+  width:auto;
+}
+#wiki,
+h5 {
+  width: auto;
+  margin-left: 90px;
+  margin-right: 90px;
+  display: block;
+}
+
+.message {
+  width: auto;
+  margin-left: 135px;
+  margin-right: 135px;
+}
